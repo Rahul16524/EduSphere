@@ -58,7 +58,7 @@ Create the standard repository structure for the EduSphere project.
 
 \- \[ ] Initial LICENSE created
 
-\- \[ ] Repository pushed to GitHub
+\- \[ ] Repository pushed to GitHub Done
 
 
 
