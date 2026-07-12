@@ -2,19 +2,11 @@
 
 
 
-Enterprise School Management System
+EduSphere is an enterprise-level School Management System built to learn real-world software development using Java, Spring Boot Microservices, React, Git, GitHub, and enterprise development practices.
 
 
 
-\## Project Status
-
-
-
-🚧 In Progress
-
-
-
-\## Technology Stack
+\## Tech Stack
 
 
 
@@ -36,5 +28,52 @@ Enterprise School Management System
 
 
 
-This project is being developed to simulate a real enterprise software development workflow using microservices and React.
+\## Microservices
+
+
+
+\- Discovery Server
+
+\- Config Server
+
+\- API Gateway
+
+\- Admin Server
+
+\- Auth Service
+
+\- School Service
+
+\- Payment Service
+
+
+
+\## Project Status
+
+
+
+🚧 Under Development
+
+
+
+\## Documentation
+
+
+
+Project documentation is available under the `docs` folder.
+
+=====================================
+
+## Project Progress
+
+| Component | Status |
+|----------|--------|
+| Discovery Server | ✅ Completed |
+| Config Server | ⏳ Pending |
+| API Gateway | ⏳ Pending |
+| Admin Server | ⏳ Pending |
+| Auth Service | ⏳ Pending |
+| School Service | ⏳ Pending |
+| Payment Service | ⏳ Pending |
+| React Frontend | ⏳ Pending |
 

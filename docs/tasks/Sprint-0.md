@@ -58,7 +58,7 @@ Create the standard repository structure for the EduSphere project.
 
 \- \[ ] Initial LICENSE created
 
-\- \[ ] Repository pushed to GitHub Done
+\- \[ ] Repository pushed to GitHub : Done
 
 
 
@@ -95,4 +95,56 @@ Create the standard repository structure for the EduSphere project.
 \- Code committed
 
 \- Code reviewed
+
+
+
+
+
+==================
+
+\## Story 2
+
+
+
+\*\*Title:\*\* Setup Eureka Discovery Server
+
+
+
+\*\*Assigned To:\*\* Developer 1
+
+
+
+\*\*Priority:\*\* Highest
+
+
+
+\*\*Status:\*\* Completed
+
+
+
+\### Description
+
+
+
+Create and configure the Eureka Discovery Server for the EduSphere microservices architecture.
+
+
+
+\### Acceptance Criteria
+
+
+
+\- \[x] Spring Boot project created
+
+\- \[x] Application starts successfully
+
+\- \[x] Eureka dashboard opens
+
+\- \[x] Discovery Server configured
+
+\- \[x] Manual testing completed
+
+\- \[ ] Code reviewed
+
+\- \[ ] Merged into main
 
