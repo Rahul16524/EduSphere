@@ -148,3 +148,29 @@ Create and configure the Eureka Discovery Server for the EduSphere microservices
 
 \- \[ ] Merged into main
 
+
+
+========================================
+
+
+
+\### Acceptance Criteria
+
+
+
+\- \[x] Spring Boot project created
+
+\- \[x] Application starts successfully
+
+\- \[x] Eureka dashboard opens
+
+\- \[x] Discovery Server configured
+
+\- \[x] Manual testing completed
+
+\- \[ ] Code reviewed: Done
+
+\- \[ ] Merged into main: Done
+
+
+
