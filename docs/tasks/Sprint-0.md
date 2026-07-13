@@ -148,3 +148,45 @@ Create and configure the Eureka Discovery Server for the EduSphere microservices
 
 \- \[ ] Merged into main
 
+
+
+======================
+
+\## Story 3
+
+
+
+\*\*Title:\*\* Setup Config Server
+
+
+
+\*\*Assigned To:\*\* Developer 2
+
+
+
+\*\*Priority:\*\* Highest
+
+
+
+\*\*Status:\*\* In Progress
+
+
+
+\### Acceptance Criteria
+
+
+
+\- \[ ] Spring Boot project created
+
+\- \[ ] Config Server configured
+
+\- \[ ] Git repository configured
+
+\- \[ ] Configuration loaded successfully
+
+\- \[ ] Manual testing completed
+
+\- \[ ] Code reviewed
+
+\- \[ ] Merged into main
+
