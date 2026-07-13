@@ -190,3 +190,63 @@ Create and configure the Eureka Discovery Server for the EduSphere microservices
 
 \- \[ ] Merged into main
 
+
+
+=================================
+
+
+
+\## Story 4
+
+
+
+Title : Setup API Gateway
+
+
+
+Assigned To : Developer 3
+
+
+
+Priority : Highest
+
+
+
+Status : In Progress
+
+
+
+Acceptance Criteria
+
+
+
+\[ ] Spring Boot project created
+
+
+
+\[ ] Gateway configured
+
+
+
+\[ ] Registered with Eureka
+
+
+
+\[ ] Route configured
+
+
+
+\[ ] Manual Testing completed
+
+
+
+\[ ] Code Reviewed
+
+
+
+\[ ] Merged into Main
+
+
+
+===============================
+
